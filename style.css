@@ -1,0 +1,38 @@
+.container header nav {
+    background-color: #7799CC;
+}
+.container header {
+    background-color: #7799CC;
+}
+.container #hero {
+    background-image: url(file:///C|/Users/414630615/Desktop/unnamed.jpg);
+}
+.container #about {
+    background-image: -webkit-linear-gradient(270deg,rgba(255,107,217,1.00) 0%,rgba(251,251,251,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(255,107,217,1.00) 0%,rgba(251,251,251,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(255,107,217,1.00) 0%,rgba(251,251,251,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(255,107,217,1.00) 0%,rgba(251,251,251,1.00) 100%);
+}
+.container #contact {
+    background-color: #AA4477;
+}
+.container .copyright {
+    background-color: #335566;
+}
+.container .banner {
+    background-image: url(file:///C|/Users/414630615/Desktop/18900-1735875145.png);
+}
+
+
+
+.container #about .text_column {
+    color: #28003D;
+}
+.container #hero {
+}
+.container .banner .parallax {
+    color: #F3776B;
+}
+.container .banner {
+    background-image: url(images/18900-1735875145.png);
+}
